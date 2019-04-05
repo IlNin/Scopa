@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 2.8)
+project(Scopa)
+find_package(OpenCV REQUIRED)
+include_directories( ${OpenCV_INCLUDE_DIRS})
+add_executable(Scopa Scopa.cpp ScopaUtil.cpp CPU.cpp Utente.cpp Giocatore.cpp Mazzo.cpp Carta.cpp)
+target_link_libraries(Scopa ${OpenCV_LIBS})
