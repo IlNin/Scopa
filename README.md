@@ -43,7 +43,9 @@ Grafica (folder)
 INSTALL INSTRUCTIONS:
 Execute "cmake ." on the directory that contains CMakeLists.txt, then "make" and finally execute "./Scopa".
 The program is compatible with Linux systems only.
-NOTE: In order to train the Cascade, I used a version of OpenCV that came with the virtual machine used by the course
+
+NOTE: 
+In order to train the Cascade, I used a version of OpenCV that came with the virtual machine used by the course
 (https://www.marrtino.org/software). There may be compatible issues, or the Cascade may work incorrectly, if the program
 is used with previous or later versions of OpenCV.
 
