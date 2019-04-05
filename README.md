@@ -14,7 +14,7 @@ At the end, though, I managed to train a Cascade that could recognize correctly 
 120 different pictures, without false positives and negatives.
 The work on the CPU was far less annoying thankfully: I had to show the program to my teacher with a live 
 demo and watching him trying to guess the next move of the CPU, and then seeing the AI making that very same 
-move, was just priceless.
+move right after, was just priceless.
 For more information, you can read my relation (written in Italian) that covers everything there's to
 know about the creation of this program.
 
