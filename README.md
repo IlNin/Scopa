@@ -1,5 +1,5 @@
 # Scopa
-A fully playable version of Scopa (a popular italian card game) made in C++ and OpenCL. 
+A fully playable version of Scopa (a popular italian card game) made in C++ and OpenCV. 
 Ever since I worked on side projects such as Snake, Tetris and Battleship, I knew I wanted to bring 
 a game as my final project for the bachelor's degree. I immediately thought of a card game that you
 could play against a CPU, and I knew I could deliver on that thanks to the experience I gained while
