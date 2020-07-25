@@ -4,7 +4,7 @@ A fully playable version of Scopa (a popular italian card game) made in C++ and 
 
 <b>Features:</b>
 - Play Scopa against a CPU opponent that follows efficient tactics based on stategies that a real human player would follow.
-- As a stepping stone for new platers, you can choose to play with an "open hand" mode, where all opponents cards are visible to you: it's also an easy way to prove that my CPU doesn't cheat! 
+- As a stepping stone for new players, you can choose to play with an "open hand" mode, where all opponents cards are visible to you: it's also an easy way to prove that my CPU doesn't cheat! 
 - All cards are extracted from real life pictures where they are laid on tables/surfaces and given the right value on the fly thanks to the object recognition tools offered by OpenCV. This means you can substitute my photos with your own if you have the same type of cards and test if they are correctly recognized thanks to the "test" option!
 
 
